@@ -95,9 +95,15 @@ footer {
     text-shadow: 3px 3px 8px black;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 1080px) {
     .source {
         margin-left: 35%;
         padding: 10px 15px;
     }
+    .unknown {
+        margin-left: 35%;
+        padding: 10px 15px;
+     
+    }
+    
 }
