@@ -94,3 +94,9 @@ footer {
     text-align: center;
     text-shadow: 3px 3px 8px black;
 }
+
+@media only screen and (max-width: 500px) {
+    .source {
+        margin-left: 35%;
+    }
+}
